@@ -4,8 +4,9 @@
 
 Do not open a public issue. Report privately through GitHub's private
 vulnerability reporting on this repository:
-https://github.com/tahto-app/.github/security/advisories/new — it covers
-every Tahto repository. Alternatively use the contact address on
+https://github.com/tahto-app/.github/security/advisories/new — this is the
+intake channel for any Tahto software; we route the report to the affected
+component. Alternatively use the general contact address on
 https://tahto.app.
 
 We aim to acknowledge within 2 business days and to give a remediation

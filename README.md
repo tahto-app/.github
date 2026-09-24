@@ -9,4 +9,4 @@ This repository is public because GitHub only applies default community
 health files from a public `.github` repository. It contains no code and no
 configuration.
 
-Security reports: see `SECURITY.md`.
+Security reports: see [SECURITY.md](SECURITY.md).
