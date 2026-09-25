@@ -8,4 +8,4 @@
 - A change touching auth, payments, brokerage, KYC, database schema or CI
   permissions is security-relevant: tick the box in the PR template and
   request review from a second owner.
-- Rollback procedures: see `tahto-infra/runbooks`.
+- Every change has a known rollback path (revert PR, redeploy the previous build, roll back the OTA update); the procedures are documented internally.

@@ -2,9 +2,12 @@
 
 ## Reporting a vulnerability
 
-Do not open a public issue. Report privately through GitHub's
-"Report a vulnerability" button on the affected repository, or email the
-address listed on https://tahto.app.
+Do not open a public issue. Report privately through GitHub's private
+vulnerability reporting on this repository:
+https://github.com/tahto-app/.github/security/advisories/new — this is the
+intake channel for any Tahto software; we route the report to the affected
+component. Alternatively use the general contact address on
+https://tahto.app.
 
 We aim to acknowledge within 2 business days and to give a remediation
 timeline within 7 days. Please include reproduction steps and the affected
@@ -12,9 +15,8 @@ component.
 
 ## Scope
 
-All repositories in the `tahto-app` organisation. The backend (`tahto-api`)
-handles authentication, payments and brokerage and is the highest-priority
-target.
+All software published by Tahto: the mobile app, its backend and the
+website.
 
 ## Handling secrets
 
